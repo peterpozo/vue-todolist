@@ -59,7 +59,8 @@ ul {
   border: none;
   background: var(--add-button);
   color: #272727;
-  background-size: 18px;
+  background-size: 32px;
+  background-image: url(../img/circle-plus-solid.svg);
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 50%;
@@ -146,6 +147,7 @@ ul {
   display: block;
   width: 16px;
   height: 16px;
+  background-image: url(../img/trash-solid.svg);
   background-size: 16px;
   background-position: center;
   cursor: pointer;
